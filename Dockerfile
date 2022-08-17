@@ -1,5 +1,5 @@
 # use the latest version of python
-FROM python:3.9-buster
+FROM python:3.10.6-buster
 
 # get some credit
 LABEL maintainer="powen@renci.org"
